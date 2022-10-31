@@ -12,6 +12,7 @@ Analysis to be done: Perform data preprocessing and build a deep learning predic
 # Steps to be done: 
 
 ⦁    Load the dataset that is given to you
+
 ⦁    Check for null values in the dataset
 ⦁    Print percentage of default to payer of the dataset for the TARGET column
 ⦁    Balance the dataset if the data is imbalanced
